@@ -1,0 +1,50 @@
+{
+  "name": "Average",
+  "designer": "Eduardo Tunni",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 19073,
+  "fonts": [
+    {
+      "name": "Average",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Average-Regular-after-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "Average-Regular",
+      "fullName": "Average",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Average\""
+    },
+    {
+      "name": "Average",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Average-Regular.ttf",
+      "postScriptName": "Average-Regular",
+      "fullName": "Average",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Average\""
+    },
+    {
+      "name": "Average",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Average-Regular-backup-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "Average-Regular",
+      "fullName": "Average",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Average\""
+    },
+    {
+      "name": "Average",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Average-Regular-TTF.ttf",
+      "postScriptName": "Average-Regular",
+      "fullName": "Average",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Average\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-03-14"
+}

@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Average-Regular.ttf.ttx, src/Average-Regular.otf.ttx, src/Average-Regular-after-fonttools-prep-gasp-TTF.sfd,
+  src/Average-Regular-TTF.sfd, src/Average-Regular-backup-fonttools-prep-gasp-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
